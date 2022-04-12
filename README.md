@@ -11,7 +11,7 @@
 - Open Xcode and clone project wiht the url you copied.
 - Lastly you need to install kingfisher.
 
-## In order to install kingfisher check here![https://github.com/onevcat/Kingfisher/wiki/Installation-Guide]
+## In order to install kingfisher check [here!](https://github.com/onevcat/Kingfisher/wiki/Installation-Guide)
 
 
 ![Screen Shot 2022-04-12 at 20 47 12](https://user-images.githubusercontent.com/45271655/163025406-4197cd25-816d-4afc-a4ed-95e404fcbfa4.png)
