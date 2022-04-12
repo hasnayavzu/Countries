@@ -1,8 +1,6 @@
 ## Countries
 
-#### Basicly Countries is an app that calls country informations from an api and shows them.
-
-#### It is still work in progress. There is still some issues that i will solve in time.
+#### Countries is an app that calls country informations from an api and shows them.
 
 ## How to use
 
