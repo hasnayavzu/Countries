@@ -1,8 +1,8 @@
 ## Countries
 
-## - Basicly Countries is an app that calls country informations from an api and shows them.
+## Basicly Countries is an app that calls country informations from an api and shows them.
 
-## = It is still work in progress. There is still some issues that i will solve in time.
+## It is still work in progress. There is still some issues that i will solve in time.
 
 
 ![Screen Shot 2022-04-12 at 20 47 12](https://user-images.githubusercontent.com/45271655/163025406-4197cd25-816d-4afc-a4ed-95e404fcbfa4.png)
